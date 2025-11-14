@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+sqlmodel
+requests
+apscheduler
+openai
+python-dotenv
+gunicorn
